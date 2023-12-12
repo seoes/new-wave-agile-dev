@@ -1,6 +1,3 @@
-# odyssey-ai
+# Visitor-Tracker
 
-**Latest AI Service**
-
-
-오잉
+**Latest AI service for tracking visitor in exhibition**
